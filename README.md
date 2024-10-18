@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iarauz13
 - 👀 I’m interested in coastal flooding, remote sensing, SAR imagery and "Ghost Forests"
-- 🌱 I’m currently learning about the impact of frequent flooding events and man-made river obstructions in the formation of ghost forests in the East Coast of the United States
+- 🌱 I’m currently learning about the impact of frequent flooding events and man-made river obstructions in the formation of ghost forests in the East Coast of the United States working with the Global Hydrology Lab at UNC
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I am a pet-lover and I currently have two mini-daschunds 🐶
 <!---
