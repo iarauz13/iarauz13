@@ -1,3 +1,8 @@
+
+<div align="center">
+  <img src="https://github.com/iarauz13/iarauz13/blob/main/Banner.JPG?raw=true" width="100%" alt="Banner" />
+</div>
+
 👋 Hi, I’m Isabela Arauz - Pronouns: she/her/hers
 - My Masters in Science (in Earth, Marine and Environmental Sciences from the University of North Carolina at Chapel Hill) involved doing research about coastal flooding, remote sensing 🛰️, SAR imagery and the current and past factors potentially involving the formation of "Ghost Forests".
       If you are interested in learning more about my research, you can find it in here: https://cdr.lib.unc.edu/concern/dissertations/cj82kp671
